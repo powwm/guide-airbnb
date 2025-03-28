@@ -1,0 +1,15 @@
+{
+  "title": "Créer votre guide",
+  "steps": {
+    "selectTemplate": "Choisir un template",
+    "customize": "Personnaliser",
+    "payment": "Paiement"
+  },
+  "customizeTitle": "Personnalisez votre guide",
+  "customizeDescription": "Vous allez être redirigé vers Canva pour personnaliser votre guide. Vous pourrez modifier les textes, les images et le style selon vos préférences.",
+  "paymentDetails": "Détails du paiement",
+  "selectedTemplate": "Template sélectionné",
+  "back": "Retour",
+  "continue": "Continuer",
+  "payNow": "Payer maintenant"
+} 

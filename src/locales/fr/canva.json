@@ -1,0 +1,24 @@
+{
+  "title": "Choisissez votre template Canva",
+  "description": "Des templates professionnels de 20 à 25 pages, facilement personnalisables",
+  "pageCount": "{{count}} pages",
+  "selectTemplate": "Personnaliser dans Canva",
+  "templates": {
+    "luxuryVilla": {
+      "name": "Guide Villa de Luxe",
+      "description": "Un guide élégant et sophistiqué pour les propriétés haut de gamme. 25 pages de contenu premium avec des placeholders pour vos photos."
+    },
+    "familyHome": {
+      "name": "Guide Familial",
+      "description": "Un guide chaleureux et accueillant parfait pour les familles. 20 pages avec des sections dédiées aux enfants et aux activités familiales."
+    },
+    "modernLoft": {
+      "name": "Guide Loft Moderne",
+      "description": "Un design épuré et contemporain pour les espaces modernes. 22 pages avec des mises en page minimalistes et élégantes."
+    },
+    "rusticCabin": {
+      "name": "Guide Chalet Rustique",
+      "description": "Un style authentique et chaleureux pour les propriétés traditionnelles. 20 pages avec des éléments naturels et rustiques."
+    }
+  }
+} 

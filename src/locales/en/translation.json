@@ -1,0 +1,21 @@
+{
+  "home": {
+    "title": "Create professional guides for your Airbnb listings",
+    "subtitle": "Easily generate personalized and elegant guides for your guests in minutes.",
+    "createGuide": "Create Guide Now",
+    "features": {
+      "simple": {
+        "title": "Simple and Fast",
+        "description": "Create your guide in less than 10 minutes with our intuitive interface"
+      },
+      "design": {
+        "title": "Professional Design",
+        "description": "Choose from our elegant templates inspired by Airbnb style"
+      },
+      "customization": {
+        "title": "Full Customization",
+        "description": "Adapt every aspect of your guide according to your needs"
+      }
+    }
+  }
+} 

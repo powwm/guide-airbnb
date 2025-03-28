@@ -1,0 +1,39 @@
+{
+  "title": "Créez votre guide",
+  "steps": {
+    "general": "Informations générales",
+    "description": "Description et équipements",
+    "rules": "Règles et attractions",
+    "photos": "Instructions spéciales"
+  },
+  "propertyName": "Nom de la propriété",
+  "propertyType": "Type de logement",
+  "propertyTypes": {
+    "house": "Maison",
+    "apartment": "Appartement",
+    "studio": "Studio",
+    "villa": "Villa",
+    "other": "Autre"
+  },
+  "capacity": "Capacité d'accueil",
+  "description": "Description",
+  "amenities": "Équipements",
+  "amenitiesList": {
+    "wifi": "Wi-Fi",
+    "kitchen": "Cuisine",
+    "pool": "Piscine",
+    "parking": "Parking",
+    "ac": "Climatisation",
+    "tv": "Télévision",
+    "washer": "Lave-linge",
+    "dryer": "Sèche-linge",
+    "elevator": "Ascenseur",
+    "gym": "Salle de sport"
+  },
+  "rules": "Règles de la maison",
+  "attractions": "Attractions locales",
+  "specialInstructions": "Instructions spéciales",
+  "back": "Retour",
+  "next": "Suivant",
+  "continue": "Continuer"
+} 
